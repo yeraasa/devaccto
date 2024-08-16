@@ -1,0 +1,3 @@
+Version control merupakan sebuah system yang merekam perubahan padaa file dari waktu ke waktu, 
+sehingga kita bisa melihat versi sebelumnya jika dinginkan. Versi control mendukung beberpa jenis
+fungsi echo untuk mengambilkan teks di terminal
